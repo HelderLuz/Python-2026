@@ -1,0 +1,6 @@
+Classifique os nomes das variáveis como válidos ou inválidos.
+(I) 1num -> inválido
+(II) _num -> válido
+(III) num_ -> válido
+(IV) def -> inválido
+(V) nu-m -> inválido 

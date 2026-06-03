@@ -1,0 +1,1 @@
+Python diferencia letras maiúsculas de minúsculas. Exemplo, Numero é uma variável diferente de numero.

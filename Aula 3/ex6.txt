@@ -1,0 +1,5 @@
+O código-fonte a seguir está correto sintaticamente? Caso contrário, o que está errado?
+print(Alan Turing)
+
+Está incorreto, pois falta as aspas para identificar o texto.
+Correto: print('Alan Turing')

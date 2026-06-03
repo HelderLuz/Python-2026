@@ -1,0 +1,5 @@
+Qual a saída resultante da execução da linha de código a seguir?
+print("Hello") #World!
+
+Saída:
+Hello

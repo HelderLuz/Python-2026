@@ -1,0 +1,1 @@
+Palavras reservadas são termos que têm um significado especial na linguagem e definem a sua sintaxe e gramática.
