@@ -10,7 +10,7 @@ def calcular_area_retangulo(base: float, altura: float) -> float:
     - float: A área calculada do retângulo.
 
     Exemplo:
-    calcular_area_retangulo(5, 3)
+    >>> calcular_area_retangulo(5, 3)
     15
     """
     return base * altura
