@@ -7,6 +7,16 @@
 # Obesidade: IMC >= 30
 
 def calcular_IMC(peso: float, altura: float):
+    """
+    Calcula o Índice de Massa Corporal.
+
+    Parâmetros:
+    - peso: peso da pessoa
+    - altura: altura da pessoa
+
+    Retorno:
+    - Retorna o valor IMC da pessoa
+    """
     return peso / (altura * altura)
 
 def classificar_imc(imc: float):
