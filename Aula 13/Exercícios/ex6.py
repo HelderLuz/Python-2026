@@ -1,1 +1,0 @@
-# Começar a aula corrigindo o exercício 6
