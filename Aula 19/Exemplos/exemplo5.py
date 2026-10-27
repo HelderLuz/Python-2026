@@ -26,4 +26,4 @@ for pizza in pizzas:
         else:
             print(f'{coberturas[i]}', end='.')
             
-    print(f'\nTamanho: {pizza['tamanho']}. \nPreço: {pizza['preco']}\n')
+    print(f'\nTamanho: {pizza['tamanho']}. \nPreço: R${pizza['preco']:6.2f}\n')
