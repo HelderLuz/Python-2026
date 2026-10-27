@@ -14,8 +14,9 @@ pizzas = [
 ]
 
 for pizza in pizzas:
-    print(f'Pizza de massa {pizza['massa']} com as coberturas: ', end='')
-    coberturas = pizza['coberturas']
+    massa, coberturas, preco, tamanho = pizza.values()
+
+    print(f'Pizza de massa {massa} com as coberturas: ', end='')
 
     # for cobertura in coberturas:
     #     print(f'{cobertura}', end=', ')
@@ -26,4 +27,4 @@ for pizza in pizzas:
         else:
             print(f'{coberturas[i]}', end='.')
             
-    print(f'\nTamanho: {pizza['tamanho']}. \nPreço: R${pizza['preco']:6.2f}\n')
+    print(f'\nTamanho: {tamanho}. \nPreço: R${preco:6.2f}\n')
