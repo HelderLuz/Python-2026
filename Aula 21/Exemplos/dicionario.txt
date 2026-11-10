@@ -1,0 +1,4 @@
+João Guilherme;29;3000
+Maria Joaquina;25;2500
+Paulo Sérgio;32;2700
+Mario Mario;50;8000
